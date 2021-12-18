@@ -1,0 +1,23 @@
+.footer {
+
+	background-color: #0f041c;
+	padding-top: 1rem;
+	margin-top: 2rem;
+}
+
+h4 {
+	color: #e08e12;
+}
+
+h6 {
+	color: #78a60d;
+}
+
+.plans {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+.card {
+	box-shadow: 10px 9px 6px -5px rgba(0,0,0,0.75);
+}
